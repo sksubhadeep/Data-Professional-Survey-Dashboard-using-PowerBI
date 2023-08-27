@@ -14,6 +14,7 @@ In this vibrant data landscape 🌐, a comprehensive survey was conducted from 6
 
 💸 However, when it came to the Happy Index regarding their salaries, the score stood at 4.27/10. It seems that while the majority is content with their work-life balance, the financial aspect has left some room for improvement. 💰🤔
 
+
 🍩 The enchanting donut chart conveyed a fascinating gender-based revelation. On average, female data professionals were observed to have a salary that was 4% higher than their male counterparts, adding a twist to the narrative of gender pay disparity. 👩‍💼👨‍💼💸
 
 This vibrant Power BI dashboard not only portrayed the insights but also painted a vivid picture of the lives and preferences of these data professionals.
