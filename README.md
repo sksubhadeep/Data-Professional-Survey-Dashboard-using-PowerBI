@@ -1,6 +1,6 @@
 # Data-Professional-Survey-Dashboard-using-PowerBI
 
-In this vibrant data landscape 🌐, a comprehensive survey was conducted from 630 diligent data professionals who generously shared their experiences. The data cleaning process involved several steps, such as the removal of empty columns, meticulous formatting, calculations to derive average salaries from salary ranges, and the meticulous elimination of those pesky null values. The result? A polished, pristine dataset ready for analysis! 🧹📊
+In this vibrant data landscape 🌐, a comprehensive survey was conducted from 630 diligent data professionals who generously shared their experiences. The data cleaning process involved several steps, such as the removal of empty columns, meticulous formatting, calculations to derive average salaries from salary ranges, and the meticulous elimination of those pesky null values. The result? A polished, pristine dataset ready for analysis! 🧹📊 
 
 👤 Amidst this enthusiastic cohort, the average age of the survey takers was found to be a youthful 29 years. 🎉 The survey unveiled intriguing revelations about their professional lives and preferences.
 
